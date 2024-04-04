@@ -9,7 +9,7 @@ Het idee om mezelf onder te dompelen in een compleet andere cultuur en echt uit 
 ## Boeiende Vakken
 
 ### Algoritmes
-In Zuid-Korea volgde ik een aantal boeiende vakken die me hebben uitgedaagd en veel nieuwe kennis hebben opgeleverd. Het eerste vak behandelde zeer theoretische concepten over algoritmes en de berekening van hun efficiëntie. Hier leerde ik de diepgaande logica achter verschillende algoritmen en hoe ze te evalueren op hun prestaties.
+In Zuid-Korea volgde ik een aantal boeiende vakken die me hebben uitgedaagd en veel nieuwe kennis hebben opgeleverd. Het eerste vak behandelde zeer theoretische concepten over algoritmes en de berekening van hun efficiëntie. Hier leerde ik de diepgaande logica achter verschillende algoritmen en hoe ze te evalueren op hun prestaties. Ik was een van de weinige internationale studenten in de klas, omringd door voornamelijk Koreaanse medestudenten. Hoewel dit een unieke leerervaring was, kwam ik soms voor uitdagingen te staan omdat een deel van de uitleg in het Koreaans werd gegeven. Dit maakte het soms moeilijk om volledig gefocust te blijven. Deze taalkundige uitdagingen waren echter niet beperkt tot slechts één vak, maar waren eerder een terugkerend thema in bijna al mijn cursussen.
 
 ### Embedded Software
 Het tweede vak concentreerde zich op embedded software en de praktische implementatie ervan. Dit was een hands-on ervaring waarbij we leerden hoe we software konden integreren in hardware, wat erg waardevol was voor mijn begrip van technologische systemen.
