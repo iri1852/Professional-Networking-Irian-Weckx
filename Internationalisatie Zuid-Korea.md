@@ -8,7 +8,7 @@ Het idee om mezelf onder te dompelen in een compleet andere cultuur en echt uit 
 
 ## Boeiende Vakken
 
-### Theoretische Algoritmes
+### Algoritmes
 In Zuid-Korea volgde ik een aantal boeiende vakken die me hebben uitgedaagd en veel nieuwe kennis hebben opgeleverd. Het eerste vak behandelde zeer theoretische concepten over algoritmes en de berekening van hun efficiëntie. Hier leerde ik de diepgaande logica achter verschillende algoritmen en hoe ze te evalueren op hun prestaties.
 
 ### Embedded Software
