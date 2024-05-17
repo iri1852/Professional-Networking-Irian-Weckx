@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Irian Weckx</title>
+    <link rel="stylesheet" href="../css/basic.css">
+    <link rel="stylesheet" href="../css/contact-styles.css">
+    
+</head>
+<body>
+    <main>
+        <div class="topnav">
+            <a href="../html/index.html">Home</a>
+            <a href="../html/About.html">About</a>
+            <a href="../html/contact.html">Contact</a>
+          </div>
+        <section class="contact-info">
+            <h2>Neem contact op</h2>
+            <p>Ik hoor graag van je! Vul het onderstaande formulier in of gebruik de onderstaande contactgegevens.</p>
+        </section>
+        <section class="contact-form">
+            <form action="submit_form.php" method="post">
+                <label for="name">Naam:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Bericht:</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+
+                <button type="submit">Verstuur</button>
+            </form>
+        </section>
+    </main>
+</body>
+</html>
